@@ -29,3 +29,6 @@ backend/src/__tests__/tmp/
 # Developer notes
 vrickish.md
 somzilla.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
