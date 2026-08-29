@@ -1,6 +1,5 @@
 node_modules/
 *.db
-.env
 dist/
 
 # Nested repo clone (accidental duplicate)
@@ -29,3 +28,7 @@ backend/src/__tests__/tmp/
 # Developer notes
 vrickish.md
 somzilla.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
