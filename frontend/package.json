@@ -2,8 +2,8 @@
   "name": "farmers-marketplace-frontend",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build && echo Bundle report: dist/bundle-report.html",
+    "dev": "node init && vite",
+    "build": "node init && vite build && echo Bundle report: dist/bundle-report.html",
     "preview": "vite preview",
     "test": "vitest run",
     "test:e2e": "playwright test",
